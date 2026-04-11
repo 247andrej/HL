@@ -1,6 +1,6 @@
 # HL
 
-A lightweight, QBasic-inspired scripting language. The headless sibling of [HGL](https://github.com/) — same syntax, no graphics, smaller footprint. Designed for terminal automation, small tools, and constrained hardware like the Raspberry Pi Zero.
+A lightweight, QBasic-inspired scripting language. The headless sibling of [HGL](https://github.com/247andrej/HGL) — same syntax, no graphics, smaller footprint. Designed for terminal automation, small tools, and constrained hardware like the Raspberry Pi Zero.
 
 ## Usage
 
