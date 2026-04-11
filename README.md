@@ -171,6 +171,19 @@ set !name inp()
 show "hello" strip(!name)
 ```
 
+## Example: Nested Math
+
+```
+set !a 5
+set !b 3
+set !c 2
+
+set !result add(mul(!a !b) div(pow(!b !c) 3))
+show !result
+```
+
+`(5 * 3) + (3^2 / 3)` = `15 + 3.0` = `18.0`. Operations nest freely and resolve from the inside out.
+
 ## License
 
 MIT
