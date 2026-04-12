@@ -1,6 +1,6 @@
 # HL
 
-A lightweight, QBasic-inspired scripting language. Designed for terminal automation, small tools, and constrained hardware.
+A lightweight, QBasic-inspired scripting language. Designed for terminal use and small tools.
 
 ## Usage
 
