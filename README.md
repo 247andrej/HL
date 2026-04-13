@@ -23,7 +23,8 @@ set !pi 3.14
 set !nums []
 set !cfg {}
 set @nums[0] 99
-set @cfg(name) "andrej"
+set @nums[-1] 1 <- append to a list
+set @cfg(name) "name"
 ```
 
 Strings require quotes. Numbers are auto-typed as int or float. Bare unquoted words error out.
